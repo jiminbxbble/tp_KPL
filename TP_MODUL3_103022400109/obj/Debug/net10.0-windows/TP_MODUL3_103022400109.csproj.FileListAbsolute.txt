@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\bin\Debug\net10.0-windows\TP_MODUL3_103022400109.exe
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\bin\Debug\net10.0-windows\TP_MODUL3_103022400109.deps.json
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\bin\Debug\net10.0-windows\TP_MODUL3_103022400109.runtimeconfig.json
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\bin\Debug\net10.0-windows\TP_MODUL3_103022400109.dll
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\bin\Debug\net10.0-windows\TP_MODUL3_103022400109.pdb
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.Form1.resources
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.AssemblyInfo.cs
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.sourcelink.json
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.dll
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\refint\TP_MODUL3_103022400109.dll
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.pdb
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\TP_MODUL3_103022400109.genruntimeconfig.cache
+C:\Users\User\source\repos\TP_MODUL3_103022400109\TP_MODUL3_103022400109\obj\Debug\net10.0-windows\ref\TP_MODUL3_103022400109.dll
